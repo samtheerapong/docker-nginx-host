@@ -6,7 +6,6 @@
 
 ```
 web-server/
-├── app/                # (ว่าง) สำหรับโค้ดแอปพลิเคชันเพิ่มเติม
 ├── config/             # ไฟล์คอนฟิก Docker และบริการต่าง ๆ
 │   ├── mariadb103/     # Dockerfile สำหรับ MariaDB 10.3
 │   ├── mariadb104/     # Dockerfile สำหรับ MariaDB 10.4
